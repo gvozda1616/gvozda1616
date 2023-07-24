@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1 align="center">Здравствуйте! Меня зовут <span style="color: #5AA6F3">Константин</span>.</h1>
 
-<!--
-**gvozda1616/gvozda1616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Я начинающий 𝙬𝙚𝙗-разработчик.
 
-Here are some ideas to get you started:
+* Студент, учусь на направлении "Математика";
+* Занимаюсь изучением английского языка;
+* Люблю слушать музыку;
+* Занимаюсь спортом: фитнес, хоккей.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Языки <span style="color: #5AA6F3">программирования</span> и <span style="color: #5AA6F3">инструменты</span>, которыми я пользуюсь:
+* JavaScript;
+* PHP;
+* Python;
+* C/C++;
+* Java;
+* HTML;
+* CSS;
+* LaTeX;
+* Excel;
+* Visual Studio Code;
+* Visual Studio 2019;
+* PyCharm;
+* IntelliJ IDEA;
+
+### Мой прогресс на Codewars:
+[![codewars](https://www.codewars.com/users/Konstantin121!/badges/small)](https://www.codewars.com/users/Konstantin121!)
+
+### Мой прогресс на LeetCode:
+![Konstantin_NN's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Konstantin_NN&theme=dark)
+
+### Связь со мной: 
+Вконтакте https://vk.com/gvozda1
+
+Телеграмм https://t.me/demidofff_konstantin
