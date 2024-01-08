@@ -23,7 +23,7 @@
 * IntelliJ IDEA;
 
 ### Мой прогресс на Codewars:
-[![codewars](https://www.codewars.com/users/Konstantin121!/badges/small)](https://www.codewars.com/users/Konstantin121!)
+[![codewars](https://www.codewars.com/users/Konstantin121!/badges/small)](https://www.codewars.com/users/__DKE__)
 
 ### Связь со мной: 
 Вконтакте https://vk.com/gvozda1
