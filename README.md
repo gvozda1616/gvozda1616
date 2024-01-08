@@ -25,9 +25,6 @@
 ### Мой прогресс на Codewars:
 [![codewars](https://www.codewars.com/users/Konstantin121!/badges/small)](https://www.codewars.com/users/Konstantin121!)
 
-### Мой прогресс на LeetCode:
-![Konstantin_NN's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Konstantin_NN&theme=dark)
-
 ### Связь со мной: 
 Вконтакте https://vk.com/gvozda1
 
